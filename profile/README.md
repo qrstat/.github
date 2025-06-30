@@ -7,7 +7,7 @@ Whether you’re gathering feedback in the office, at an event, or on a coffee s
 
 ## 📊 How It Works
 1. Write your question (e.g., “Did you enjoy the service?”)
-2. Get two unique QR codes — ✅ Yes and ❌ No
+2. Get two unique QR codes - ✅ Yes and ❌ No
 3. Print or display them anywhere
 4. Track real-time voting results in your dashboard
 
@@ -28,8 +28,8 @@ Built by developers who love fast feedback loops and intuitive products:
 ## 🍿 Fun Facts
 - The first polls were tested at meetups and local cafés
 - Inspired by those physical “smile/frown” feedback buttons
-- We actually have QR polls stuck to our fridge
 
 
 Ask boldly. Get honest answers.
-— The qrstat Team
+
+The qrstat Team
