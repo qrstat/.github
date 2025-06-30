@@ -4,6 +4,8 @@
 qrstat is a lightweight, no-friction app for creating quick polls - where the answers come in the form of two QR codes: yes or no.
 Whether you’re gathering feedback in the office, at an event, or on a coffee shop counter, qrstat makes it effortless and engaging.
 
+**🛠️ Note: This project is still a Work in Progress**
+
 
 ## 📊 How It Works
 1. Write your question (e.g., “Did you enjoy the service?”)
